@@ -43,8 +43,8 @@ Here are a few highlights (more in my repos 👇):
 
 ## 📊 GitHub Stats
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=trainer-ryan-eqc&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trainer-ryan-eqc&layout=compact&theme=tokyonight)
 
 ---
 

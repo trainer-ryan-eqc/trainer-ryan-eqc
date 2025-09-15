@@ -7,13 +7,13 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 ## 🛠️ Tech Stack
 
 - **Frontend**:  
-  HTML5 • CSS3 • Bootstrap • JavaScript (ES6+)
+  HTML5 • CSS3 • Bootstrap • JavaScript (ES6+) • React • Tailwind
 
 - **Backend**:  
   Node.js • Express.js
 
 - **Database**:  
-  MongoDB (Mongoose ODM)
+  MongoDB
 
 - **Other Tools & Practices**:  
   Git/GitHub • RESTful APIs • Agile workflows • Deployment with Vercel/Render

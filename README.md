@@ -48,21 +48,35 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 
 ## 🛠 Tech Stack
 
+### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-4B32C3?logo=EJS&logoColor=white)
+
+### 🖥 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+### 🗄 Database / API
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![REST](https://img.shields.io/badge/REST-FF6C37?logo=postman&logoColor=fff)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=JSON&logoColor=white)
+
+### 🛠 Dev Tools / Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=fff)
+
+### 🎨 Design / Deployment
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)
+
 
 
 ---

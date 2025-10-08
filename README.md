@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ryan
 
-I’m a **Full-Stack Web Developer** passionate about building user-friendly, scalable, and efficient web applications. With a background in joinery/manufacturing and years of leadership experience, I bring not only technical expertise but also strong organizational and problem-solving skills to every project.  
+I’m a **Full-Stack Web Developer** passionate about building user-friendly, scalable, and efficient web applications. With a background in joinery/manufacturing and years of leadership and education experience, I bring not only technical expertise but also strong organizational and problem-solving skills to every project.  
 
 ---
 

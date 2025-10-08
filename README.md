@@ -13,22 +13,6 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend**:  
-  HTML5 • CSS3 • Bootstrap • JavaScript (ES6+) • React • Tailwind 
-
-- **Backend**:  
-  Node.js • Express.js • EJS • Python • RESTful APIs
-
-- **Database**:  
-  MongoDB
-
-- **Other Tools & Practices**:  
-  Git/GitHub • RESTful APIs • Agile workflows • Deployment with Vercel/Render
-
----
-
 ## 🌐 My Website  
 🎯 **Check out my personal site & portfolio:**  
 [![Website](https://img.shields.io/badge/🌏%20ryancjeffrey.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ryancjeffrey.com)

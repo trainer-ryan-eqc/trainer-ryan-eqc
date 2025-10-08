@@ -6,7 +6,7 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 
 ## 🚀 About Me
 - 💻 Founder of **3 Yellow Circles** – empowering trade services to grow digitally.
-- 🎨 Experience with **Figma, Canva** for design and prototyping.
+- ⚙️ Obsessed with consistent improvement and innovation.
 - 📚 Educator in web dev fundamentals and emerging tech like blockchain.
 - ⚡ Strong track record in project delivery, leadership, and mentoring.
 - 🌱 Passionate about turning ideas into impactful digital tools.
@@ -19,7 +19,7 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
   HTML5 • CSS3 • Bootstrap • JavaScript (ES6+) • React • Tailwind 
 
 - **Backend**:  
-  Node.js • Express.js • EJS
+  Node.js • Express.js • EJS • Python
 
 - **Database**:  
   MongoDB

@@ -61,6 +61,8 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-4B32C3?logo=EJS&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 
 ---

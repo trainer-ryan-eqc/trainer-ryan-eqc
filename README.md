@@ -60,6 +60,7 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-4B32C3?logo=EJS&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 
 ---

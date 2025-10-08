@@ -58,6 +58,8 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
 
 ---
 

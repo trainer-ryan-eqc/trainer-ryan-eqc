@@ -6,7 +6,6 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 
 ## 🚀 About Me
 - 💻 Founder of **3 Yellow Circles** – empowering trade services to grow digitally.
-- 🛠 Proficient in **HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, Bootstrap**, and **React**.
 - 🎨 Experience with **Figma, Canva** for design and prototyping.
 - 📚 Educator in web dev fundamentals and emerging tech like blockchain.
 - ⚡ Strong track record in project delivery, leadership, and mentoring.
@@ -17,10 +16,10 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 ## 🛠️ Tech Stack
 
 - **Frontend**:  
-  HTML5 • CSS3 • Bootstrap • JavaScript (ES6+) • React • Tailwind
+  HTML5 • CSS3 • Bootstrap • JavaScript (ES6+) • React • Tailwind 
 
 - **Backend**:  
-  Node.js • Express.js
+  Node.js • Express.js • EJS
 
 - **Database**:  
   MongoDB

@@ -46,16 +46,6 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 
 ---
 
-## 📂 Projects
-
-Here are a few highlights (more in my repos 👇):
-
-- **Task Manager App** – A full-stack CRUD application with authentication and task sorting  
-- **Portfolio Website** – Showcasing my development work with a modern, responsive design  
-- **API Projects** – Small-scale projects demonstrating REST API principles  
-
----
-
 ## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)

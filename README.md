@@ -5,7 +5,6 @@ I’m a **Full-Stack Web Developer** passionate about building user-friendly, sc
 ---
 
 ## 🚀 About Me
-- 💻 Founder of **3 Yellow Circles** – empowering trade services to grow digitally.
 - ⚙️ Obsessed with consistent improvement and innovation.
 - 📚 Educator in web dev fundamentals and emerging tech like blockchain.
 - ⚡ Strong track record in project delivery, leadership, and mentoring.
